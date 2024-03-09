@@ -8,5 +8,5 @@ Bayesian Machine Learning methods and their implementations
 
 Sparse Bayesian Learning and the Relevance Vector Machine
 
-Reference Paper - [Sparse Bayesian Learning and the Relevance Vector Machine Michael E. Tipping, Journal of Machine Learning Research 1 (2001) 211244][https://www.jmlr.org/papers/volume1/tipping01a/tipping01a.pdf]
+Reference Paper - [Sparse Bayesian Learning and the Relevance Vector Machine Michael E. Tipping, Journal of Machine Learning Research 1 (2001) 211244](https://www.jmlr.org/papers/volume1/tipping01a/tipping01a.pdf)
 
